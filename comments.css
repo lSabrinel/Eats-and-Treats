@@ -1,0 +1,75 @@
+
+
+#logo {
+    display: inline-block;
+    margin-left: 35%;
+    margin-bottom: 2.5%;
+
+}
+
+.container {
+    
+    font-family: 'Rouge Script', cursive;
+
+}
+
+
+
+form{
+    font-family: 'Rouge Script', cursive;
+    font-size: 35px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+label
+{
+    text-decoration: none;
+	display: block; /* La balise devient de type block. */
+	width: 150px;
+}
+
+#send{
+    display: block;
+    margin : auto;
+  
+}
+
+#Bordur {
+    width: 10%;
+    margin-top: 0%;
+    margin-left: 0%;
+}
+/* 
+#p1 {
+    display: inline-block;
+    width: 30%;
+}
+
+#p2 {
+    display: inline-block;
+    width: 30%;
+}
+
+#t1 {
+    font-family: 'Rouge Script', cursive;
+    font-size: 45px;
+    width: 55%;
+    float: right;
+    margin-right: 10%;
+    margin-top: 5%;
+}
+
+#t2 {
+    font-family: 'Rouge Script', cursive;
+    font-size: 45px;
+    width: 55%;
+    float: left;
+    margin-top: 8%;
+} */
+#Bordur2 {
+    width: 10%;
+    margin-left: 90%;
+    margin-bottom: -19%;
+}
